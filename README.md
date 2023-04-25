@@ -1,4 +1,4 @@
-# Users & Permissions Lab
+# Cron Jobs Lab
 
 ## Task
 
